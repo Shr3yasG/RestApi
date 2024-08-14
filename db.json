@@ -5,140 +5,140 @@
       "name": "Laptop Pro",
       "price": 1299.99,
       "description": "A high-end laptop with a fast processor, large storage, and premium design.",
-      "image": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Laptop+Pro"
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
     },
     {
       "id": 2,
       "name": "Smartphone X",
       "price": 899.99,
       "description": "A flagship smartphone with a stunning display, excellent camera, and long battery life.",
-      "image": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Smartphone+X"
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     },
     {
       "id": 3,
       "name": "Wireless Earbuds",
       "price": 199.99,
       "description": "Compact wireless earbuds with superior sound quality and noise cancellation.",
-      "image": "https://via.placeholder.com/150/008000/FFFFFF?text=Earbuds"
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947"
     },
     {
       "id": 4,
       "name": "Smartwatch Series 5",
       "price": 299.99,
       "description": "A smartwatch with fitness tracking, heart rate monitoring, and a customizable watch face.",
-      "image": "https://via.placeholder.com/150/800080/FFFFFF?text=Smartwatch"
+      "image": "https://images.unsplash.com/photo-1512314889353-4b30e233fc17"
     },
     {
       "id": 5,
       "name": "Gaming Console",
       "price": 499.99,
       "description": "A next-gen gaming console with ultra-fast loading times and stunning graphics.",
-      "image": "https://via.placeholder.com/150/FFA500/FFFFFF?text=Console"
+      "image": "https://images.unsplash.com/photo-1606813902547-9f4a4a39915d"
     },
     {
       "id": 6,
       "name": "Bluetooth Speaker",
       "price": 99.99,
       "description": "A portable Bluetooth speaker with deep bass, clear sound, and long battery life.",
-      "image": "https://via.placeholder.com/150/000000/FFFFFF?text=Speaker"
+      "image": "https://images.unsplash.com/photo-1616401787487-d06f91a7d23b"
     },
     {
       "id": 7,
       "name": "4K Ultra HD TV",
       "price": 799.99,
       "description": "A 55-inch 4K Ultra HD TV with vibrant colors, HDR support, and smart features.",
-      "image": "https://via.placeholder.com/150/FFFF00/000000?text=4K+TV"
+      "image": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68"
     },
     {
       "id": 8,
       "name": "Tablet Pro",
       "price": 599.99,
       "description": "A powerful tablet with a stunning display, fast processor, and support for a stylus.",
-      "image": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Tablet+Pro"
+      "image": "https://images.unsplash.com/photo-1586953208448-1e023337a244"
     },
     {
       "id": 9,
       "name": "Digital Camera",
       "price": 399.99,
       "description": "A DSLR camera with a high-resolution sensor, optical zoom, and full manual control.",
-      "image": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Camera"
+      "image": "https://images.unsplash.com/photo-1499952127939-9bb9d162a8f2"
     },
     {
       "id": 10,
       "name": "Noise Cancelling Headphones",
       "price": 249.99,
       "description": "Over-ear headphones with active noise cancellation and superior sound quality.",
-      "image": "https://via.placeholder.com/150/008000/FFFFFF?text=Headphones"
+      "image": "https://images.unsplash.com/photo-1518443737424-16f7721df42b"
     },
     {
       "id": 11,
       "name": "Home Theater System",
       "price": 599.99,
       "description": "A surround sound system with a subwoofer, multiple speakers, and Dolby Atmos support.",
-      "image": "https://via.placeholder.com/150/800080/FFFFFF?text=Home+Theater"
+      "image": "https://images.unsplash.com/photo-1506947413585-2f79d3d7eac9"
     },
     {
       "id": 12,
       "name": "Smart Home Hub",
       "price": 149.99,
       "description": "A hub for connecting and controlling smart home devices from a single app.",
-      "image": "https://via.placeholder.com/150/FFA500/FFFFFF?text=Smart+Hub"
+      "image": "https://images.unsplash.com/photo-1522163182402-e9d363b1660a"
     },
     {
       "id": 13,
       "name": "Electric Scooter",
       "price": 399.99,
       "description": "A foldable electric scooter with a powerful motor, long-range battery, and LED lights.",
-      "image": "https://via.placeholder.com/150/000000/FFFFFF?text=Scooter"
+      "image": "https://images.unsplash.com/photo-1579308078088-62bc8c9020e4"
     },
     {
       "id": 14,
       "name": "Fitness Tracker",
       "price": 99.99,
       "description": "A fitness tracker with step counting, sleep monitoring, and heart rate tracking.",
-      "image": "https://via.placeholder.com/150/FFFF00/000000?text=Fitness+Tracker"
+      "image": "https://images.unsplash.com/photo-1520473741763-7a152ae2b3d5"
     },
     {
       "id": 15,
       "name": "E-Reader",
       "price": 129.99,
       "description": "An e-reader with a glare-free screen, long battery life, and access to thousands of books.",
-      "image": "https://via.placeholder.com/150/0000FF/FFFFFF?text=E-Reader"
+      "image": "https://images.unsplash.com/photo-1587347483141-ae6c40b58e75"
     },
     {
       "id": 16,
       "name": "VR Headset",
       "price": 349.99,
       "description": "A virtual reality headset with a high-resolution display and motion tracking.",
-      "image": "https://via.placeholder.com/150/FF0000/FFFFFF?text=VR+Headset"
+      "image": "https://images.unsplash.com/photo-1603892861445-5d4c2a3d9f14"
     },
     {
       "id": 17,
       "name": "Smart Light Bulb",
       "price": 29.99,
       "description": "A smart LED bulb with adjustable brightness, color options, and app control.",
-      "image": "https://via.placeholder.com/150/008000/FFFFFF?text=Smart+Bulb"
+      "image": "https://images.unsplash.com/photo-1520218834888-c58a6df288b8"
     },
     {
       "id": 18,
       "name": "Portable Power Bank",
       "price": 49.99,
       "description": "A high-capacity power bank with fast charging and multiple USB ports.",
-      "image": "https://via.placeholder.com/150/800080/FFFFFF?text=Power+Bank"
+      "image": "https://images.unsplash.com/photo-1592262875395-d18f72b3e016"
     },
     {
       "id": 19,
       "name": "Drone X Pro",
       "price": 799.99,
       "description": "A professional drone with 4K camera, GPS, and advanced flight controls.",
-      "image": "https://via.placeholder.com/150/FFA500/FFFFFF?text=Drone+X+Pro"
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
     },
     {
       "id": 20,
       "name": "Gaming Laptop",
       "price": 1499.99,
       "description": "A powerful gaming laptop with a high-refresh-rate display and top-tier graphics card.",
-      "image": "https://via.placeholder.com/150/000000/FFFFFF?text=Gaming+Laptop"
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6e1931e"
     }
   ]
 }
